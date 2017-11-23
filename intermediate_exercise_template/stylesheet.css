@@ -1,0 +1,40 @@
+body  {
+	background-color: #464939;
+
+}
+h3{
+	size: 12pt;
+
+}
+
+#participation{
+	background-color: #747C3A;
+	color: white;
+}	
+
+#explanation .danger {
+	color: brown;
+	font-weight: bold;
+
+}
+ul li{
+	color: #525D21;
+	font-style: italic;
+}
+.strong li{
+	color: #DD8804;
+
+}
+.p1 {
+	font-style: oblique;
+}
+a {
+	background-color: #35ff37;
+}
+ves {
+	#525D21;
+}
+p {
+	border: solid
+	border-width: 1px;
+}
